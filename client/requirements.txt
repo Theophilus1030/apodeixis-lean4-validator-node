@@ -1,0 +1,6 @@
+web3>=6.0.0
+eth-account>=0.8.0
+httpx>=0.24.0
+python-dotenv>=1.0.0
+textual>=0.40.0
+rich>=13.0.0
