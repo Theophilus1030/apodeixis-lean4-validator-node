@@ -49,7 +49,7 @@ Before you start, ensure your system meets the following requirements:
 ### 1\. Clone the Repository
 
 ```bash
-git clone https://github.com/Theophilus1030/apodeixis-validator-node.git
+git clone https://github.com/Theophilus1030/apodeixis-lean4-validator-node.git
 cd apodeixis-validator-node
 ```
 
